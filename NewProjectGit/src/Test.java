@@ -6,6 +6,8 @@ public class Test {
 	  private String email;
 	  private Date datenaissance;
 	  private String pays;
+	  private String nom;
+	  private String prenom;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
